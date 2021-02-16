@@ -2,7 +2,7 @@
 goMovie app showcasing Android best practices with Google's recommended architecture: MVVM + Repository + Android Architecture Components  + Retrofit.
 
 
-
+![103805485-f2be5680-5053-11eb-81b5-755f2f722dc0](https://user-images.githubusercontent.com/44701013/108106432-3a41f480-708e-11eb-97f5-ecbe4e95d2c4.png)
 ![Screenshot1](https://user-images.githubusercontent.com/44701013/103805478-efc36600-5053-11eb-8cc6-f5deabe13c48.png)
 ![Screenshot2](https://user-images.githubusercontent.com/44701013/103805482-f18d2980-5053-11eb-94aa-14b8579a095e.png)
 ![Screenshot3](https://user-images.githubusercontent.com/44701013/103805483-f225c000-5053-11eb-83b7-bb87cbcbfc0d.png)
