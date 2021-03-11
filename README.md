@@ -1,13 +1,13 @@
 # goMovie
 goMovie app showcasing Android best practices with Google's recommended architecture: MVVM + Repository + Android Architecture Components  + Retrofit.
 
+# Screenshots
 
-![103805485-f2be5680-5053-11eb-81b5-755f2f722dc0](https://user-images.githubusercontent.com/44701013/108106432-3a41f480-708e-11eb-97f5-ecbe4e95d2c4.png)
-![Screenshot1](https://user-images.githubusercontent.com/44701013/103805478-efc36600-5053-11eb-8cc6-f5deabe13c48.png)
-![Screenshot2](https://user-images.githubusercontent.com/44701013/103805482-f18d2980-5053-11eb-94aa-14b8579a095e.png)
-![Screenshot3](https://user-images.githubusercontent.com/44701013/103805483-f225c000-5053-11eb-83b7-bb87cbcbfc0d.png)
-![Screenshot4](https://user-images.githubusercontent.com/44701013/103805485-f2be5680-5053-11eb-81b5-755f2f722dc0.png)
-![Screenshot5](https://user-images.githubusercontent.com/44701013/103805489-f356ed00-5053-11eb-95ed-b8fd2145ef12.png)
-![Screenshot6](https://user-images.githubusercontent.com/44701013/103805492-f3ef8380-5053-11eb-91e2-da238aa83036.png)
-![Screenshot7](https://user-images.githubusercontent.com/44701013/103805493-f3ef8380-5053-11eb-92c4-737bf91a4bf5.png)
-
+![1](https://user-images.githubusercontent.com/44701013/110804122-29953080-8280-11eb-8f9a-83840f4bc111.png)
+![2](https://user-images.githubusercontent.com/44701013/110804129-2ac65d80-8280-11eb-8ed4-3f0eb8a4ad4b.png)
+![3](https://user-images.githubusercontent.com/44701013/110804130-2b5ef400-8280-11eb-9e86-0d100f5cf37e.png)
+![4](https://user-images.githubusercontent.com/44701013/110804132-2bf78a80-8280-11eb-9b97-bc891149b4eb.png)
+![5](https://user-images.githubusercontent.com/44701013/110804135-2c902100-8280-11eb-9f6f-9d656db2d3dc.png)
+![6](https://user-images.githubusercontent.com/44701013/110804140-2d28b780-8280-11eb-9b18-5254373d10ed.png)
+![7](https://user-images.githubusercontent.com/44701013/110804144-2dc14e00-8280-11eb-99ef-df3ab2822a1a.png)
+![8](https://user-images.githubusercontent.com/44701013/110804145-2dc14e00-8280-11eb-9965-54e6a072c8e8.png)
