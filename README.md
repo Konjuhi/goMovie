@@ -3,6 +3,8 @@ goMovie app showcasing Android best practices with Google's recommended architec
 
 # Learn The Basics of Android Architecture Components
 
+![basic](https://user-images.githubusercontent.com/44701013/110819491-87c91000-828e-11eb-8c1a-bbce57365d76.png)
+
 # Screenshots
 
 ![1](https://user-images.githubusercontent.com/44701013/110804122-29953080-8280-11eb-8f9a-83840f4bc111.png)
